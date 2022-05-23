@@ -1,0 +1,3 @@
+export const REPOSITORIES = {
+  APP_REPOSITORY: 'APP_REPOSITORY',
+};
